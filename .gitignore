@@ -1,1 +1,10 @@
 .env
+
+#Virtual Environment
+.venv
+
+#Python
+__pycache__
+
+#Uv
+uv.lock
